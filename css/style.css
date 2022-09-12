@@ -55,9 +55,18 @@ main img{
 
 table{
     border-spacing: 0;
+    text-align: left;
 }
 
 thead{
     background-color: blue;
+    color: white;
 }
 
+.larghezza-colonna{
+    width: 25%;
+}
+
+.riga{
+    background-color: aqua;
+}
