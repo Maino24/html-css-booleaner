@@ -18,9 +18,8 @@ header img{
 }
 
 main{
-    padding-top: 2%; 
-    padding-left: 10%;
-    padding-right: 10%;
+    width: 70%;
+    margin:auto;
 }
 
 
@@ -36,3 +35,8 @@ main{
 #colorato{
     color: blue;
 }
+
+main img{
+    padding-top: 20px;
+}
+
