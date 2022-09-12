@@ -74,3 +74,9 @@ thead{
 h4{
     color:grey;
 }
+
+footer{
+    width: 70%;
+    margin:auto;
+    padding-top: 30px;
+}
