@@ -47,3 +47,17 @@ main img{
 .lista{
     margin-left: 15px;
 }
+
+.tabella{
+    margin: 30px 0;
+    
+}
+
+table{
+    border-spacing: 0;
+}
+
+thead{
+    background-color: blue;
+}
+
